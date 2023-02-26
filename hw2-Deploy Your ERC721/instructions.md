@@ -11,7 +11,6 @@ Created by Daniel Gushchyan
 First, let's install Foundry. Foundry Book is going to be a resource that we'll reference often, as getting comfortable with reading documentation is a hugely valuable skill (and in many cases, the only resource for help).
 
 Instructions for installing Foundry: https://book.getfoundry.sh/getting-started/installation
-
 ### Creating our Foundry project and Writing the NFT
 
 In this homework, we'll be following the simple NFT guide provided by Foundry. 
